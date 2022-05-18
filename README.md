@@ -1,6 +1,6 @@
 # Hyperfox
 
-Hyperfox is a relative simple real-time chat platform made for the Cloudflare Spring Developer Challenge 2022.
+Hyperfox is a relatively simple real-time chat platform made for the Cloudflare Spring Developer Challenge 2022.
 
 ## Licenses
 
